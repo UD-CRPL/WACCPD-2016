@@ -1,6 +1,6 @@
 # WACCPD-2016
 
-**The code is hosted at (https://github.com/rsearles35/WACCPD-2016)[https://github.com/rsearles35/WACCPD-2016]**
+**The code is hosted at **(https://github.com/rsearles35/WACCPD-2016)[https://github.com/rsearles35/WACCPD-2016]
 
 Code repository for graph analytics work utilizing Spark+GPU. The subdirectories "WACCPD" and "IJHPCN" contain all source code and data used for the corresponding publications listed below.
 # Citation Information
